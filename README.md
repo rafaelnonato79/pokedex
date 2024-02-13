@@ -1,2 +1,2 @@
 # Pokedex
-Pokedex integrando Front End com a PokeApi.
+Pokedex integrando Front-End com a PokeApi.
